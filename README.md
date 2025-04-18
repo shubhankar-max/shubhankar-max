@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **Golang**
 
 - 💬 Ask me about **Python, Terraform, Micro-services**
 
